@@ -74,3 +74,7 @@ pids
 #claude.code specific
 .claude/
 CLAUDE.md
+productContext.md
+projectbrief.md
+systemPatterns.md
+techContext.md
